@@ -1,6 +1,6 @@
 # applied-ml-template
 
-Start by copying this template repository into your GitHub account. Replace "template" with your name or alias, e.g. applied-ml-case.
+Start by copying this template repository into your GitHub account. Replace "template" with your name or alias, e.g. applied-ml-bneely.
 
 We will use this repo for several lab projects. 
 
