@@ -33,16 +33,6 @@ We use scikit-learn, built on NumPy, SciPy, and matplotlib
 
 ---
 
-## Professional Python Setup and Workflow
-We follow professional Python practices. 
-Full instructions are available at <https://github.com/denisecase/pro-analytics-01/>. 
-A concise version is provided at [WORKFLOW_GUIDE.md](./docs/WORKFLOW_GUIDE.md)
-
-**Important:** VS Code + Pylance may fail to recognize installed packages in Jupyter notebooks.  
-See the above guides for troubleshooting and solutions.  
-
----
-
 ## How to clone this project for further development:
 Clone this repository:  
 ```shell
