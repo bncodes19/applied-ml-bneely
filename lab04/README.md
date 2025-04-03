@@ -12,27 +12,25 @@ Four types of regression models models are employed for predicting fare:
 - Polynomial Regression
 
 ## Sections of the analysis:
-- Section 1: Import the Dataset
+- Section 1: Import The Dataset and Inspect the Data
 - Section 2: Data Exploration and Preparation
    - 2.1: Handle Missing Values and Clean Data
-   - 2.3: Feature Engineering
 - Section 3: Feature Selection and Justification
    - 3.1: Choose features and target
-- Section 4: Train a Classification Model (Decision Tree)
+- Section 4: Train a Regression Model (Linear Regression)
    - 4.1 Split the Data
-   - 4.2 Create and Train Decision Tree Model
-   - 4.3 Predict and Evaluate Model Performance
-   - 4.4 Confusion Matrix
-   - 4.5 Decision tree Plot
-   - 4.6 Repead Steps for 4.1-4.5 for Case 2
-   - 4.7 Repead Steps for 4.1-4.5 for Case 3   
-- Section 5: Alternative Model
-   - 5.1 Train and Evaluate Model: Support Vector Machine
-   - 5.2 Train and Evaluate Model: Neural Network - Multi Level Perceptron
-- Section 6: Final Thoughts and Insights
+   - 4.2 Train and Evaluate Linear Regression Models for all four cases
+   - 4.3 Report Performance
+- Section 5: Compare Alternative Models
+   - 5.1 Evaluate Ridge Regression (L2 penalty) for the best case (Case 4)
+   - 5.2 Evaluate Elastic Net (L1 + L2 combined) for the best case (Case 4)
+   - 5.3 Evaluate Polynomial Regression for the best case (Case 4)
+   - 5.4 Visualize Polynomial Cubic Fit (for 1 inpute feature)
+   - 5.5 Compare All Models
+   - 5.6 Visualize Higher Order Polynomial (for the same 1 input case)
+- Section 6: Final Thoughts
    - 6.1 Summarize Findings
-   - 6.2 Discuss Challenges Faced
-   - 6.3 Next Steps
+   - 6.2 Discuss Challenges
 
 ## Dataset 
 Titanic dataset
